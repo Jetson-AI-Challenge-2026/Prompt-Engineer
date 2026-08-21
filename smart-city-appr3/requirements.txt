@@ -1,0 +1,8 @@
+numpy
+pyyaml
+filterpy
+pyserial
+rospkg
+catkin_pkg
+netifaces
+ultralytics
